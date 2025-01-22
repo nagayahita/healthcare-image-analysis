@@ -23,15 +23,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-## Dataset
-The project uses the Chest X-Ray Images (Pneumonia) dataset, which can be downloaded from Kaggle.
-Project Structure
-Copyhealthcare-image-analysis/
-├── data/               # Dataset directory
-├── notebooks/         # Jupyter notebooks
-├── src/              # Source code
-├── tests/            # Unit tests
-└── model_artifacts/  # Saved models and configs
 ## Usage
 See the notebooks directory for detailed usage examples.
 Model Performance
