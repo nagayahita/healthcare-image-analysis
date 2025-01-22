@@ -13,7 +13,7 @@ Deep learning system for pneumonia detection using chest X-ray images. The syste
 ## Installation
 
 # Clone repository
-git clone https://github.com/[username]/healthcare-image-analysis.git
+git clone https://github.com/[nagayahita]/healthcare-image-analysis.git
 cd healthcare-image-analysis
 
 # Create virtual environment
