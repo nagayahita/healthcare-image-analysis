@@ -41,3 +41,8 @@ Acknowledgments
 ## Dataset providers
 PyTorch team
 Medical professionals who validated the dataset
+
+## Contact
+@nagayahita
+Project Link: https://github.com/nagayahita/brand-sentiment-analyzer
+gmail: nayahitaaditya@gmail.com
