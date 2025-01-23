@@ -13,7 +13,7 @@ Deep learning system for pneumonia detection using chest X-ray images. The syste
 ## Installation
 
 # Clone repository
-git clone https://github.com/[nagayahita]/healthcare-image-analysis.git
+git clone https://github.com/nagayahita/healthcare-image-analysis.git
 cd healthcare-image-analysis
 
 # Create virtual environment
@@ -25,12 +25,15 @@ pip install -r requirements.txt
 
 ## Usage
 See the notebooks directory for detailed usage examples.
-Model Performance
+
+## Model Performance
 
 Accuracy: 95%+
 Sensitivity: 93%
 Specificity: 90%
 
+## Dataset
+The project uses the Chest X-Ray Images (Pneumonia) dataset, which can be downloaded from Kaggle.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments
